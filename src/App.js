@@ -1,4 +1,5 @@
-import { Fragment } from 'react';
+import { Fragment } from 'react'; // tương tự <></>
+
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { publicRoutes } from '~/Routes';
 import { DefaultLayout } from '~/Component/Layout';
